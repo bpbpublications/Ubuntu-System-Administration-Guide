@@ -1,2 +1,2 @@
-# Ubuntu in 30 days
-Ubuntu in 30 days, by BPB Publications
+# Ubuntu System Administration Guide
+Ubuntu System Administration Guide, by BPB Publications
